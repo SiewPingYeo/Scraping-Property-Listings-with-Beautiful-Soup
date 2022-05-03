@@ -3,7 +3,7 @@ This project aims to scrape propety listing details from 99.co - a Singapore onl
 The code can be adjusted accordingly to scrape numbe rof property listings you may need. 
 
 ## Output:
-The extracted data is stored in a dataframe and exported as CSV for future use. 
+The extracted data is stored in a dataframe and exported as CSV named property listings for future use. 
 
 ## Possible Usage:
 1. Predicting property prices 
